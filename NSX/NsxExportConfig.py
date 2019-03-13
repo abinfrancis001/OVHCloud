@@ -4,7 +4,7 @@ Description : Export ovhcloud Pcc nsx configuration to xml file.
 Prerequisite: python3.0 or higher
             : Install requests module as it is not a builtin module(From a cmd prompt, use > Path\easy_install.exe requests, where Path is your Python*\Scripts folder, if it was installed. (For example: C:\Python32\Scripts\easy_install.exe))
             : Notepad++
-Queries     : abin.francis@corp.ovh.us or abin001@gmail.com
+Queries     : abin001@gmail.com
 
 """
 
